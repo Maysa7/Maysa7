@@ -13,6 +13,9 @@
 ---
 
 ## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 - **Programming Languages:** Python, Java, C, SQL, JavaScript  
 - **Web Development:** HTML, CSS  
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab  
