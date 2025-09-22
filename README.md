@@ -1,6 +1,6 @@
 # Hi there I'm Maysa Alghamdi
 
-**Computer Science Student @ George Mason University (Class of 2026)**  
+**Computer Science Student at George Mason University (Class of 2026)**  
 
 ---
 
