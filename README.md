@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Maysa Alghamdi
 
-<!--
-**Maysa7/Maysa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student @ George Mason University (Class of 2026)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Senior CS student with a focus on **software engineering and data science**  
+- Experienced in **Python, Java, SQL, C, and JavaScript**  
+- Interested in **AI/ML, database systems, and full-stack development**
+- Currently preparing for **CompTIA Security+ certification** and learning **drone programming**   
+
+---
+
+## Skills
+- **Programming Languages:** Python, Java, C, SQL, JavaScript  
+- **Web Development:** HTML, CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab  
+- **Other Applications:** Microsoft Office, Google Workspace  
+
+---
+
+## Featured Projects
+- [**Odin Recipes**](https://github.com/Maysa7/odin_recipes) A responsive recipe website built with HTML, CSS, and JavaScript
+- **Database Management Project** – Designed and implemented a relational database in SQL with normalization, indexing, and stored procedures
+
+## Education & Certifications
+- **B.S. Computer Science, George Mason University** – *Expected May 2026*  
+- **Drone Program Certification, GMU** – *Issued June 2025*  
+- **CompTIA Security+** – *In Progress*
+
+---
+## Get in Touch
+Email: [malgha@gmu.edu](mailto:malgha@gmu.edu) 
