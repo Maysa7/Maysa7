@@ -1,46 +1,47 @@
-# Hi there I'm Maysa Alghamdi
+<img src="assets/maysa-banner.png" alt="Maysa Alghamdi - Web Developer and Computer Science Graduate" width="100%" />
 
-**Computer Science Student at George Mason University (Class of 2026)**  
+### ▍ About
 
----
+I'm a Computer Science graduate from George Mason University, based in Jeddah, Saudi Arabia. I focus on building clear, responsive, and reliable web experiences for people and businesses.
 
-## About Me
-- Senior CS student with a focus on **software engineering and data science**  
-- Experienced in **Python, Java, SQL, C, and JavaScript**  
-- Interested in **AI/ML, database systems, and full-stack development**
-- Currently preparing for **CompTIA Security+ certification** and learning **drone programming**   
+I'm registered as a Freelancing Practitioner in **Websites Programming and Developing** through Saudi Arabia's Ministry of Human Resources and Social Development.
+
+Currently building a fresh portfolio of polished, production-ready projects.
 
 ---
 
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-- **Programming Languages:** Python, Java, C, SQL, JavaScript  
-- **Web Development:** HTML, CSS  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab  
-- **Other Applications:** Microsoft Office, Google Workspace  
+### ▍ Technical Skills
+
+**Languages** · Python · Java · JavaScript · SQL · C<br>
+**Web** · HTML · CSS · Responsive Web Development<br>
+**Tools** · Git · GitHub · VS Code · Jupyter<br>
+**Foundations** · Database Design · Software Engineering · Problem Solving
 
 ---
 
-## Featured Projects
-- [**Odin Recipes**](https://github.com/Maysa7/odin_recipes)
-Created a responsive recipe website using **HTML, CSS, and JavaScript** as part of The Odin Project curriculum. Focused on clean UI design and performance optimization by implementing reusable components and structured CSS for scalability. Added interactive navigation and animations to improve user experience. Deployed the project on **GitHub Pages** to practice version control and public hosting, strengthening front-end development and deployment workflows.  
+### ▍ Freelance Services
 
-- **Database Management Project**
-Designed and implemented a full relational database system in **SQL** for a simulated university course project. Built normalized schemas, applied **indexing and stored procedures**, and created **Entity-Relationship (ER) diagrams** to model complex relationships. Wrote and optimized queries for faster performance, applying data integrity constraints and referential checks. This project enhanced my skills in **database architecture, query optimization, and real-world problem solving** for large datasets.
-
-- **Data Mining Project**
-Developed a **K-Nearest Neighbors (KNN) classifier** in **Python** that achieved 85% classification accuracy. Cleaned and preprocessed raw datasets using **Pandas/NumPy**, applied feature scaling, and visualized trends with **Matplotlib**. Conducted **cross-validation** to evaluate model performance and adjusted hyperparameters to improve accuracy. This project gave me hands-on experience with **machine learning pipelines, data wrangling, and model validation techniques**.
-
-- **Drone Programming Lab (GMU Certification)**
-Completed a structured training program in **autonomous drone programming** at George Mason University. Used onboard sensors and programming logic to perform navigation tasks and obstacle avoidance. Gained exposure to **embedded systems, robotics principles, and applied AI concepts**, reinforcing my interest in hardware-software integration.  
-
-## Education & Certifications
-- **B.S. Computer Science, George Mason University** – *Expected May 2026*  
-- **Drone Program Certification, GMU** – *Issued June 2025*  
-- **CompTIA Security+** – *In Progress*
+- Business and personal websites
+- Landing pages
+- Responsive website development
+- Website redesign and improvement
+- Basic database-backed applications
 
 ---
-## Get in Touch
-Email: [malgha@gmu.edu](mailto:malgha@gmu.edu) 
+
+### ▍ Currently Building
+
+A new client-focused web project that demonstrates the full process—from identifying a real business need to designing, building, testing, and deploying a finished solution.
+
+---
+
+### ▍ Education
+
+**Bachelor of Science in Computer Science**<br>
+George Mason University · May 2026
+
+---
+
+Open to junior development roles and freelance website projects.
+
+📧 [maldeepah@gmail.com](mailto:maldeepah@gmail.com) · 📍 Jeddah, Saudi Arabia
