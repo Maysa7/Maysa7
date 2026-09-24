@@ -2,11 +2,9 @@
 
 ### ▍ About
 
-I'm a Computer Science graduate from George Mason University, based in Jeddah, Saudi Arabia. I focus on building clear, responsive, and reliable web experiences for people and businesses.
+I'm a Computer Science graduate from George Mason University, based in Jeddah, Saudi Arabia. I design and develop clear, responsive, and reliable web experiences with a focus on usability, maintainability, and thoughtful execution.
 
 I'm registered as a Freelancing Practitioner in **Websites Programming and Developing** through Saudi Arabia's Ministry of Human Resources and Social Development.
-
-Currently building a fresh portfolio of polished, production-ready projects.
 
 ---
 
@@ -25,13 +23,7 @@ Currently building a fresh portfolio of polished, production-ready projects.
 - Landing pages
 - Responsive website development
 - Website redesign and improvement
-- Basic database-backed applications
-
----
-
-### ▍ Currently Building
-
-A new client-focused web project that demonstrates the full process—from identifying a real business need to designing, building, testing, and deploying a finished solution.
+- Database-backed web applications
 
 ---
 
@@ -42,6 +34,6 @@ George Mason University · May 2026
 
 ---
 
-Open to junior development roles and freelance website projects.
+Open to software development opportunities and freelance collaborations.
 
 📧 [maldeepah@gmail.com](mailto:maldeepah@gmail.com) · 📍 Jeddah, Saudi Arabia
