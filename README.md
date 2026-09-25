@@ -2,7 +2,7 @@
 
 ### ▍ About
 
-I'm a Computer Science graduate from George Mason University, based in Jeddah, Saudi Arabia. I design and develop clear, responsive, and reliable web experiences with a focus on usability, maintainability, and thoughtful execution.
+I'm a Computer Science graduate focused on software engineering, data systems, and intelligent applications. Based in Jeddah, Saudi Arabia, I approach development with an emphasis on usability, maintainability, and thoughtful execution.
 
 I'm registered as a Freelancing Practitioner in **Websites Programming and Developing** through Saudi Arabia's Ministry of Human Resources and Social Development.
 
